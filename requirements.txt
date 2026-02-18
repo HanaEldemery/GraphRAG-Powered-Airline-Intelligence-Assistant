@@ -11,3 +11,16 @@ vaderSentiment
 missingno
 dotenv
 kagglehub
+ragas
+
+# Graph-RAG + UI
+streamlit
+neo4j
+openai
+requests
+python-dotenv
+plotly
+networkx
+
+# Optional (needed only for embedding-based retrieval)
+sentence-transformers
