@@ -7,7 +7,7 @@ from typing import Dict, List, Optional
 
 # LLM Configuration (prefer env vars)
 OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY", "")
-OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
+OPENROUTER_URL = ""
 
 # Valid entities from the dataset (used by both regex and LLM extraction)
 VALID_AIRPORT_CODES = [

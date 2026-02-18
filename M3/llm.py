@@ -10,7 +10,7 @@ def _get_openrouter_client() -> OpenAI:
     if not api_key:
         raise RuntimeError("Missing OPENROUTER_API_KEY (or OPENAI_API_KEY).")
     return OpenAI(
-        base_url="https://openrouter.ai/api/v1",
+        base_url="",
         api_key=api_key,
     )
 

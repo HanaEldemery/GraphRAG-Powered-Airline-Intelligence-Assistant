@@ -3,9 +3,9 @@ from query_templates import get_query_template, QUERY_TEMPLATES
 from neo4j import GraphDatabase
 
 
-NEO4J_URI = "neo4j://127.0.0.1:7687"
-NEO4J_USER = "neo4j"
-NEO4J_PASSWORD = "ags6VQR6yc16VDQZfK4kW3-rujuflNEzQV-6HKevfOM"
+NEO4J_URI = ""
+NEO4J_USER = ""
+NEO4J_PASSWORD = ""
 
 
 # Entity placeholders for each intent

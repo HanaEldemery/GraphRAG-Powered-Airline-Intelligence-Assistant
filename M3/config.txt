@@ -1,3 +1,3 @@
-URI=neo4j+ssc://a3242851.databases.neo4j.io
-USERNAME=neo4j
-PASSWORD=ags6VQR6yc16VDQZfK4kW3-rujuflNEzQV-6HKevfOM
+URI=
+USERNAME=
+PASSWORD=
